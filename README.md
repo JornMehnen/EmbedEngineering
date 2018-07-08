@@ -1,2 +1,2 @@
-# EmbedEngineering
+# EmbeddingEngineering
 Embed engineering and your thinking
